@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="data_name">
+        <item>Asta [ Clover Academy ]</item>
+        <item>William Vangeance</item>
+        <item>Yami [ Clover Academy ]</item>
+        <item>Licth </item>
+        <item>Leopold Vermillion </item>
+        <item>Rill Boismortier</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Black Bulls</item>
+        <item>Golden Dawn</item>
+        <item>Black Bulls</item>
+        <item>The Eye of the Midnight Sun</item>
+        <item>Crimson Lion Kings</item>
+        <item>Aqua Deer</item>
+
+    </string-array>
+</resources>
